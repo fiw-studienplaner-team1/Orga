@@ -1,13 +1,12 @@
 ---
 name: User Story (Orga)
+type: User Story
 about: Vorlage fuer User Stories im Orga-Repo (US:)
 title: "US: "
 labels: [ ]
 ---
 
-### User Story
-
-Als XXX möchte ich ....., um ....
+### User Story:
 
 ### Akzeptanzkriterien
 
