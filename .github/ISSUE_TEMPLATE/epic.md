@@ -1,5 +1,6 @@
 ---
 name: Epic
+type: Epic
 about: Vorlage fuer Epics (E:)
 title: "E: "
 labels: [ ]
