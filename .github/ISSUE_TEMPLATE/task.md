@@ -1,5 +1,6 @@
 ---
 name: Task
+type: Task
 about: Vorlage fuer Tasks (T:)
 title: "T: "
 labels: [ ]
@@ -17,7 +18,7 @@ Gehört zu: #NUMMER
 - [ ] Teilschritt 2
 - [ ] Teilschritt 3
 
-### DoD
+### Done, wenn
 
 - [ ] Alle Teilschritte sind erledigt
 - [ ] Das Ergebnis ist im Task hinterlegt (Link / Artifact)
